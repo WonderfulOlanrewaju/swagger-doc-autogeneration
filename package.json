@@ -1,0 +1,13 @@
+{
+  "name": "swagger-test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.4",
+    "swagger-autogen": "^1.2.5",
+    "swagger-jsdoc": "^4.0.0",
+    "swagger-ui-express": "^4.1.4"
+  }
+}
